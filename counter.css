@@ -1,0 +1,43 @@
+div{
+    text-align: center;
+    border-radius: 20px;
+    color:magenta;
+}
+body{
+    text-align: center;
+}
+#count{
+    font-size: 10em;
+}
+#dec{
+    padding: 20px;
+    border-radius: 20px;
+    color:aliceblue;
+     background-color: burlywood; 
+     font-size:20px;
+}
+#res{
+    padding: 20px;
+     border-radius: 20px;
+     font-size:20px;
+      color:aliceblue;
+     background-color: burlywood;
+}
+#inc{
+    padding: 20px;
+     border-radius: 20px;
+      color:aliceblue;
+     background-color: burlywood;
+     font-size:20px;
+}
+#dec:hover{
+    background-color: coral;
+}
+#res:hover{
+    background-color: coral;
+
+}
+#inc:hover{
+    background-color: coral;
+
+}
